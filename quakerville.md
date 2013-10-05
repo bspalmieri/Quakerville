@@ -1,6 +1,5 @@
 # QUAKERVILLE
-A look into Quaker networks of publication (1680-1730), the exchange of books and manuscripts between London and Philadelphia, and the nature of its raging dissident content.
-
+The key figures and locations for a dissertation on Quaker networks of publication (1680-1730), the exchange of books and manuscripts between communities in London and Philadelphia, and what they have to tell us about the role of print and manuscript in community-building.
 
 
 # INDEX
