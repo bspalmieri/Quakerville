@@ -1,7 +1,7 @@
 Quakerville
 ===========
 
-Documents and appendices relating to a dissertation on 17th century Quaker publishing.
+Documents and appendices relating to a dissertation on Quaker networks of publication (1680-1730), the exchange of books and manuscripts between London and Philadelphia, and the nature of its raging dissident content.
 
 The purpose of this **repository**:
   1. To familiarize myself with GitHub in all its glory.
