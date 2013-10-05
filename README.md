@@ -1,7 +1,7 @@
 Quakerville
 ===========
 
-Documents relating to a dissertation on 17th century Quaker publishing.
+Documents and appendices relating to a dissertation on 17th century Quaker publishing.
 
 The purpose of this **repository**:
   1. To familiarize myself with GitHub in all its glory.
