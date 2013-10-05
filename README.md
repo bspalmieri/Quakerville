@@ -1,7 +1,7 @@
 Quakerville
 ===========
 
-Documents and appendices relating to a dissertation on Quaker networks of publication (1680-1730), the exchange of books and manuscripts between London and Philadelphia, and the nature of its raging dissident content.
+Documents and appendices relating to a dissertation on Quaker networks of publication (1680-1730) and the exchange of books and manuscripts between communities in London and Philadelphia, and what they have to tell us about the role of print and manuscript in community building among radical religious groups.
 
 The purpose of this **repository**:
   1. To familiarize myself with GitHub in all its glory.
