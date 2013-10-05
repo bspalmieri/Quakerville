@@ -6,6 +6,7 @@ Documents and appendices relating to a dissertation on Quaker networks of public
 The purpose of this **repository**:
   1. To familiarize myself with GitHub in all its glory.
   2. To keep my research methods transparent and easily accessible.
+  3. To host the code for what will eventually be the digital component of my dissertation (see the **Beehive** folder)
   
 What to Expect
 ==============
