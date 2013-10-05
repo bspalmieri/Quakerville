@@ -27,6 +27,9 @@ I use [GitHub for Mac](http://mac.github.com).
 
 1. **Git Book**: [The Whole Thing](http://git-scm.com/book)
 2. **ProfHacker**: [GitHub 101](http://chronicle.com/blogs/profhacker/tag/github101)
+3. **Code School**: [Try Git](http://try.github.io/levels/1/challenges/1) for help with walking the command line.
+4. **Git Immersion**: [A super tutorial](http://gitimmersion.com)
+5. **Git Reference**: [For quick reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 
 Find Me
