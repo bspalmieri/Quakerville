@@ -25,9 +25,9 @@ Resources
 I found combining ProfHacker's tutorials with Git Hub's official book itself to be the best way of diving into this experiment.
 I use [GitHub for Mac](http://mac.github.com).
 
-- **Git Book**: [The Whole Thing](http://git-scm.com/book)
-- **ProfHacker**: [GitHub 101](http://chronicle.com/blogs/profhacker/tag/github101)
-- 
+1. **Git Book**: [The Whole Thing](http://git-scm.com/book)
+2. **ProfHacker**: [GitHub 101](http://chronicle.com/blogs/profhacker/tag/github101)
+
 
 Find Me
 =======
